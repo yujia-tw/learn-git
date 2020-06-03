@@ -1,7 +1,3 @@
 superxc
-<<<<<<< HEAD
 Jinge Li
 yuecheng.pei
-=======
-cenxi
->>>>>>> 6e697c10454edbe216c52bb81e2195f11d821e23
